@@ -1,4 +1,4 @@
-package com.section7.encapsulation.challenge;
+package com.section7.encapsulation.ex38;
 
 public class MainEncapChallenge {
     public static void main(String[] args) {

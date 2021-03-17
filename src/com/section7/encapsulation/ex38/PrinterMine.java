@@ -1,6 +1,4 @@
-package com.section7.encapsulation.challenge;
-
-import javax.swing.*;
+package com.section7.encapsulation.ex38;
 
 public class PrinterMine {
     private int tonerLevel;
