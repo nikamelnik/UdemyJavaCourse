@@ -1,4 +1,4 @@
-package section7.composition;
+package com.section7.composition;
 
 public class Wall {
     private String direction;
