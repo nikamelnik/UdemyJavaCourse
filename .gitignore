@@ -1,0 +1,9 @@
+*.settings
+*.project
+*.classpath
+.gradle
+target/
+.idea/
+*.iml
+.java-version
+*.class
