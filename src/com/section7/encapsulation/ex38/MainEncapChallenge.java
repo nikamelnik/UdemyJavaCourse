@@ -9,7 +9,7 @@ public class MainEncapChallenge {
 
     }
 }
-// Create a class and demonstrate proper encapsulation techniques
+// Create a class and demonstrate proper encapsulation techniques.
 // the class will be called Printer
 // It will simulate a real Computer Printer
 // It should have fields for the toner Level, number of pages printed, and

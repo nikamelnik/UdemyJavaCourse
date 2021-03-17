@@ -66,8 +66,6 @@ public class PrinterMine {
     }
 
 }
-
-
 // It should have fields for the toner Level, number of pages printed, and
 // also whether its a duplex printer (capable of printing on both sides of the paper).
 // Add methods to fill up the toner (up to a maximum of 100%), another method to
