@@ -52,7 +52,7 @@ public class PrinterMine {
                 pagesToPring= (int) Math.ceil( (double) pagesToPring/2);
                 System.out.println( "Printing in Duplex mode ");
             }
-            this.numberOfPrintedPages+=pagesToPring;
+            this.numberOfPrintedPages+= pagesToPring;
             System.out.println("Printing " + pages + " pages");
             System.out.println("Total printed pages: " + this.numberOfPrintedPages);
             return pagesToPring;
