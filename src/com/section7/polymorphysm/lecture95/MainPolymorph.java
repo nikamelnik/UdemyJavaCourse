@@ -1,5 +1,7 @@
 package com.section7.polymorphysm.lecture95;
 
+
+
 class Movie {
     private String name;
 
@@ -78,6 +80,7 @@ public class MainPolymorph {
             System.out.println("Movie #" + i +
                     " : " + movie.getName() + "\n" +
                     "Plot: " + movie.plot() + "\n");
+
         }
     }
 
